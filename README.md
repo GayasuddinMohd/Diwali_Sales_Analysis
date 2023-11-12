@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Diwali_Sales_Analysis/blob/main/Diwali%20Sales%20Image.jpg?raw=true)
+![Image Alt Text](https://i.postimg.cc/pVqC8NgH/Diwali-Sales-Image.jpg)
 
 # ✿  Diwali  ✿
 Diwali is the Hindu festival of lights with its variations also celebrated in other Indian religions. It symbolises the spiritual "victory of light over darkness, good over evil, and knowledge over ignorance". Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kartika.
