@@ -7,9 +7,8 @@ The Diwali Sales Analysis dataset offers a fascinating glimpse into the shopping
 * Python
   
 # Dataset  
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/bishtudas/diwali-sales-dataset?select=Diwali+Sales+Data.csv
-
+* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/bishtudas/diwali-sales-dataset?select=Diwali+Sales+Data.csv).
+  
 # Insights  
 * we can say that most of the buyers are Females.
 * we can say that females are spending more money on purchasing as comapred to male.
