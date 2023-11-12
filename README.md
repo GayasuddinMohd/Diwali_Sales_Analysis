@@ -15,7 +15,7 @@ The Diwali Sales Analysis dataset offers a fascinating glimpse into the shopping
 * Buyers between 26-35 age group are spending more money on buying goods on diwali.
 * Most of the orders are from Uttar Pradesh, Maharashtra and Karnataka.
 * Uttar Pradesh, Maharashtra and Karnataka are spending more money on buying goods in diwali.
-* Most of the buyers most of the buyers are married.
+* Most of the buyers are married.
 * Most of the buyers are married womens and they spent more amount on purchasing goods in diwali.
 * Most of the buyers are from IT, Healthcare and Aviation sector.
 * Most of the sold products are from Food, Clothing and Electronics category.
