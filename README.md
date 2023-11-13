@@ -3,7 +3,7 @@
 # Diwali Sales Analysis  
 The Diwali Sales Analysis dataset offers a fascinating glimpse into the shopping trends and consumer behaviors during the festive Diwali season. In this analysis, we will delve into the dataset to uncover patterns, insights, and narratives related to sales, products, and customer engagement during the Diwali festivities.
 
-# Technologies Used  
+# Skills
 * Python
   
 # Dataset  
